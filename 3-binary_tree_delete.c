@@ -3,7 +3,6 @@
 /**
  * binary_tree_delete - delete the entire binary tree
  * @tree: points to root node of the tree to delete
- *
  * Return: nothing
  */
 
